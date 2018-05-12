@@ -1,0 +1,31 @@
+_repo: Salome_37126
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marshall, Emma
+    alias: Marshall, Emma Martin
+    birthdate: 1830
+    deathdate: 1899
+    gutenberg_agent_id: '28350'
+    url: http://www.gutenberg.org/2009/agents/28350
+description: ''
+gutenberg_issued: '2011-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Youth -- Conduct of life -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcsh 'England -- Social life and customs -- Fiction'
+title: Salome
+url: http://www.gutenberg.org/ebooks/37126
